@@ -1,7 +1,10 @@
 **About Me**
-- Indie Developer
-- BLog [meettea.com](https://www.meettea.com) (Language: Chinese)
-- Created [u301.com](https://u301.com)
+- 🤦‍♂️ Indie Developer
+- 📜 Blog [meettea.com](https://www.meettea.com) (Language: Chinese)
+
+**My Product**
+
+- <img src="https://u301.com/favicon.png" style="width: 12px; vertical-align:baseline" /> [u301](https://u301.com) Url Shortener
 
 **Open Source Community Governance Principles**
 
