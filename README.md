@@ -10,3 +10,6 @@
 
 1. ⚡️ Prompt Handling (Pull Request / Issue / Deploy)
 2. ❤️ Extremely Friendly
+
+---
+If you didn't document it, it didn't happen 
