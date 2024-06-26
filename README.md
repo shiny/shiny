@@ -4,7 +4,7 @@
 
 **My Product**
 
-- <img src="https://u301.com/favicon.png" style="width: 12px; vertical-align:baseline" /> [u301](https://u301.com) Url Shortener
+- <img src="https://u301.com/favicon.png" style="width: 12px; vertical-align:baseline" /> [u301](https://u301.com) URL Shortener
 
 **Open Source Community Governance Principles**
 
