@@ -1,6 +1,6 @@
 **About Me**
 - 🤦‍♂️ Indie Developer
-- 📜 Blog [meettea.com](https://www.meettea.com) (Language: Chinese)
+- 📜 Blog <a href="https://www.meettea.com">meettea.com</a> (Language: Chinese)
 
 **My Product**
 
